@@ -6,7 +6,7 @@ It uses GNOME's xdg-desktop-portal picker (Wayland-friendly), copies the image t
 
 ## Demo
 
-[![Watch the video]](https://github.com/nishantaMishra/gnome-circle-to-lens/blob/main/example.mp4)
+https://github.com/nishantaMishra/gnome-circle-to-lens/blob/main/example.mp4
 
 <video controls width="720">
 	<source src="example.mp4" type="video/mp4">
