@@ -8,6 +8,11 @@ It uses GNOME's xdg-desktop-portal picker (Wayland-friendly), copies the image t
 
 [![Watch the video]](https://github.com/nishantaMishra/gnome-circle-to-lens/blob/main/example.mp4)
 
+<video controls width="720">
+	<source src="example.mp4" type="video/mp4">
+	Your browser does not support the video tag. <a href="example.mp4">Watch the demo</a>.
+</video>
+
 > Tip: Set a keyboard shortcut (e.g., Super+Z) for instant Circle-to-Search on Linux!
 
 ## Install
