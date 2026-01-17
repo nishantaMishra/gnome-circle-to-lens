@@ -4,16 +4,6 @@ Circle-to-Search style capture for GNOME on Wayland that uploads the selected re
 
 It uses GNOME's xdg-desktop-portal picker (Wayland-friendly), copies the image to your clipboard, uploads it to a temporary host, and opens Google Lens in your default browser.
 
-## Demo
-
-https://github.com/nishantaMishra/gnome-circle-to-lens/blob/main/example.mp4
-
-<video controls width="720">
-	<source src="example.mp4" type="video/mp4">
-	Your browser does not support the video tag. <a href="example.mp4">Watch the demo</a>.
-</video>
-
-> Tip: Set a keyboard shortcut (e.g., Super+Z) for instant Circle-to-Search on Linux!
 
 ## Install
 From this repository, run the installer wrapper:
@@ -36,7 +26,7 @@ After installation, run:
 gnome-circle-to-lens
 ```
 
-Tip: Bind it to a keyboard shortcut for a Circle-to-Search feel.
+> Tip: Set a keyboard shortcut (e.g., Super+Z) for instant Circle-to-Search on Linux!
 
 ## Keyboard Shortcut (GNOME)
 1. Open Settings → Keyboard → Keyboard Shortcuts.
@@ -56,4 +46,3 @@ Optionally remove the PATH line added by the installer from `~/.bashrc` and/or `
 
 ## Security & Privacy
 - The screenshot is uploaded to a third-party temporary hosting service (`uguu.se`) and then accessed by Google Lens. Treat captured content accordingly.
-- The temporary local file is deleted after upload.
