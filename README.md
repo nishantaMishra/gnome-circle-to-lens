@@ -1,6 +1,6 @@
 # GNOME Circle to Lens
 
-Circle-to-Search style capture for GNOME on Wayland that uploads the selected region and opens Google Lens for visual search.
+Circle-to-Search style capture for GNOME on Wayland that opens Google Lens for visual search.
 
 It uses GNOME's xdg-desktop-portal picker (Wayland-friendly), copies the image to your clipboard, uploads it to a temporary host, and opens Google Lens in your default browser.
 
