@@ -4,6 +4,12 @@ Circle-to-Search style capture for GNOME on Wayland that uploads the selected re
 
 It uses GNOME's xdg-desktop-portal picker (Wayland-friendly), copies the image to your clipboard, uploads it to a temporary host, and opens Google Lens in your default browser.
 
+## Demo
+
+https://github.com/user-attachments/assets/example.mp4
+
+> Tip: Set a keyboard shortcut (e.g., Super+Z) for instant Circle-to-Search on Linux!
+
 ## Install
 From this repository, run the installer wrapper:
 
